@@ -33,18 +33,18 @@ There are total of three questions and time alloted is 35 seconds and one can vi
 ## Screenshot
 
 Initial screen for starting the quiz
-Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.png
+https://github.com/soniasebastian/Coding-quiz-challenge\assets\images\screenshot1.png
 
 The question section with options and results appears like this.
-Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121222.png
+https://github.com/soniasebastian/Coding-quiz-challenge\assets\images\screenshot2.png
 
 
 All done screen after taking quiz with final score and initials.
-Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121409.png
+https://github.com/soniasebastian/Coding-quiz-challenge\assets\images\screenshot3.pnggi
 
 
 Final screen with Highscore and goback option.
-Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121448.png
+https://github.com/soniasebastian/Coding-quiz-challenge\assets\images\screenshot4.png
 
 ## Credits
 I would like to thank the Uogitft teaching team for giving an introduction how to work with this. 
