@@ -52,6 +52,9 @@ Final screen with Highscore and goback option.
 ## Credits
 I would like to thank the UofT teaching team for giving an introduction how to work with this. 
 
+## URL link for deployed application
+https://soniasebastian.github.io/Coding-quiz-challenge/
+
 ## License
 UofT licence
 
