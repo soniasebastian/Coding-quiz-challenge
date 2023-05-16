@@ -1,4 +1,4 @@
-﻿# Coding Quiz Challenge
+# Coding Quiz Challenge
 
 
 ## Description
@@ -28,26 +28,29 @@ No installation required, Right click the index.html file and open with any brow
 
 
 ## Usage
-There are total of three questions and time alloted is 35 seconds and one can view the score on the left top corner of the page. The user has 65 seconds and for every incorrect answer 10 seconds will deducted and the final score and intitials gets saved later and one can see the highscore also. The same can also be cleared in the final step.
+There are total of three questions and time alloted is 35 seconds and one can view the score on the left top corner of the page. 
+The user has 65 seconds and for every incorrect answer 10 seconds will deducted and the final score and intitials gets saved later.
+One can see the highscore also and the same can also be cleared in the final step.
 
 ## Screenshot
 
 Initial screen for starting the quiz
-(https://github.com/soniasebastian/Coding-quiz-challenge/blob/main/assets/images/screenshot1.png)
+![screenshot1](https://github.com/soniasebastian/Coding-quiz-challenge/assets/130253087/0c4fb59a-8cf9-4cdf-9512-96e270683aac)
+
 
 The question section with options and results appears like this.
-(https://github.com/soniasebastian/Coding-quiz-challenge/blob/main/assets/images/screenshot2.png)
+![screenshot2](https://github.com/soniasebastian/Coding-quiz-challenge/assets/130253087/2f121812-ff67-4492-961b-672baac40b69)
 
 
 All done screen after taking quiz with final score and initials.
-(https://github.com/soniasebastian/Coding-quiz-challenge/blob/main/assets/images/screenshot3.png)
+![screenshot3](https://github.com/soniasebastian/Coding-quiz-challenge/assets/130253087/0303d5b9-889c-436c-a9ba-e29d90b7f73c)
 
 
 Final screen with Highscore and goback option.
-(https://github.com/soniasebastian/Coding-quiz-challenge/blob/main/assets/images/screenshot4.png)
+![screenshot4](https://github.com/soniasebastian/Coding-quiz-challenge/assets/130253087/75cdd6ab-264a-403a-86f7-8b5a7123beba)
 
 ## Credits
-I would like to thank the Uogitft teaching team for giving an introduction how to work with this. 
+I would like to thank the UofT teaching team for giving an introduction how to work with this. 
 
 ## License
 UofT licence
