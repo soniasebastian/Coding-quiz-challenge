@@ -33,21 +33,21 @@ There are total of three questions and time alloted is 35 seconds and one can vi
 ## Screenshot
 
 Initial screen for starting the quiz
-Screenshot 2023-05-16 120851.png
+Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.png
 
 The question section with options and results appears like this.
-Screenshot 2023-05-16 121222.png
+Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121222.png
 
 
 All done screen after taking quiz with final score and initials.
-Screenshot 2023-05-16 121409.png
+Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121409.png
 
 
 Final screen with Highscore and goback option.
-Screenshot 2023-05-16 121448.png
+Coding-quiz-challenge\assets\images\Screenshot 2023-05-16 120851.pngScreenshot 2023-05-16 121448.png
 
 ## Credits
-I would like to thank the Uoft teaching team for giving an introduction how to work with this. 
+I would like to thank the Uogitft teaching team for giving an introduction how to work with this. 
 
 ## License
 UofT licence
