@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Coding Quiz</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="./assets/style.css" />
+</head>
+
+<header class="header">
+  <div id="score">HighScore: <span id="score_value"></span>
+    <div id="timer">Time: <span id="time"></span></div>
+  </div>
+</header>
+
+<body>
+  <main>
+    <section id="introSection">
+      <div class="home">Coding Quiz Challenge</div>
+      <p id="intro">Try to answer the following code related questions within the time
+        limit.
+        </br>
+        Keep in mind that incorrect answers will penalize your scoretime by
+        10 seconds.
+      </p>
+      <button id="start-btn">Start Quiz</button>
+    </section>
+
+    <section id="questionSection">
+      <div id="questionDiv">
+      </div>
+        <div class="options">
+          <button id="option_1" class="btn-1" onclick="checkAnswer(this)"></button></br>
+          <button id="option_2" class="btn-2" onclick="checkAnswer(this)"></button></br>
+          <button id="option_3" class="btn-3" onclick="checkAnswer(this)"></button></br>
+          <button id="option_4" class="btn-4" onclick="checkAnswer(this)"></button>
+        </div>
+      
+    </section>
+
+    <section id="resultSection">
+      <div id="resultDiv" >
+        <h3>All done!</h3>
+        <p id="finalScore">Your final score is .</p>
+        <form id="initialsForm">
+          <label for="initials">Enter Initials:</label>
+          <input type="text" id="initials" name="initials">
+          <button id="submit" class="btn">Submit</button>
+        </form>
+    </section>
+    <section id="currentResultDisplay" class="hideElement">
+      <div id="resultText">
+      </div>
+    </section>
+
+    <section id="highScoreSection">
+      </div>
+      <div id="highScoreDiv">
+          <label for="score-value">Highscores<label>
+              <input type="text" id="displayFinalScore" name="displayFinalScore">
+            </label>
+            <button id="go-back" onclick="reloadWindow()">Go back</button>
+            <button id="score-value" onclick="clearHighScore()">Clear Highscores</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/script.js"></script>
+</body>
+
+</html>
